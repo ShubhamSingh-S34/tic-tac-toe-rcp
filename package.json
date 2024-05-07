@@ -21,6 +21,9 @@
     "extends": [
       "react-app",
       "react-app/jest"
+    ],
+    "ignorePatterns": [
+      "**/*.css"
     ]
   },
   "browserslist": {
